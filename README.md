@@ -1,2 +1,4 @@
 # tangent-dynamics-analysis
-In this reposotery
+In this repository, I share my first PhD paper and a piece of my code in MATLAB that regenerates Fig. 4b in the paper for a trajectory with a different initial condition.
+
+In my Phd, I worked on short chains of paramagnetic particles submerged in a fluid and subjected to an external rotating magnetic field. These particle systems have many proven and potential applications in microfluidic industry. The uploaded paper is my first PhD paper that discusses one of my most significant PhD results: above a certain field rotation rate, the chain of particles breaks up and particles undergo an episode of chaotic motion which is temporary. The long term response of the particles is forming ordered, rotating structures that are stable. The MATLAB code re-generates Fig. 4b in the paper that shows this sharp transition from chaos to order. 
