@@ -87,7 +87,7 @@ for counter = 1 : Maxtime * ( 1 / TimeStep ) + 1
     error = error + log(E_mag) ;
 end
 %________________________________________________________________________________________________________________%
-%Plot of time-averaged energy/symmetry order parameter/ log(e) vs. time
+%Plot of log(e) vs. time
 
 time = 0 : Maxtime/2/pi*Ma/(size(P_LLE,2)-1) : Maxtime/2/pi*Ma ;
 
