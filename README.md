@@ -7,4 +7,6 @@ If you run the MATLAB code you will get the following figure. The sharp change i
 
 ![](fig4b_regenerated.png)
 
+I have also attached a movie from real experiments that capture this sharp transition from chaos to order: experiment_chaos_order_transition.mp4
+
 
