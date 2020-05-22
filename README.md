@@ -8,6 +8,10 @@ First, I discovered this regime of behavior in the simulations that I ran:
 
 ![](Figures/simulation.png)
 
+Then, we ran experiments and validated the simulation outcome: 
+
+![](Figures/experiment.png)
+
 If you run the MATLAB code you will get the following figure. The sharp change in slope is representative of the sharp transition from chaos to order. 
 
 ![](fig4b_regenerated.png)
