@@ -12,9 +12,10 @@ Then, we ran experiments and validated the simulation outcome:
 
 ![](Figures/experiment.png)
 
-If you run the MATLAB code you will get the following figure. The sharp change in slope is representative of the sharp transition from chaos to order. 
+## Tangent Dynamics Analyis 
+In order to systematically capture the transition time from chaos to order I had to do tangent dynamics analysis. I am not going to go into the details of the analysis, however, I am sharing the code in this repository. If you run the MATLAB code you will get the following figure. A positive slope means chaos and a zero slope mean order. The sharp change in slope is representative of the sharp transition from chaos to order. 
 
-![](fig4b_regenerated.png)
+![](Figures/fig4b_regenerated.png)
 
 I have also attached a movie from real experiments that capture this sharp transition from chaos to order: experiment_chaos_order_transition.mp4
 
