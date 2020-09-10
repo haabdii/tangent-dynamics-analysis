@@ -17,6 +17,8 @@ In order to systematically capture the transition time from chaos to order I had
 
 ![](Figures/fig4b_regenerated.png)
 
+![](Figures/fig4b.png)
+
 I have also attached a movie from real experiments that capture this sharp transition from chaos to order: experiment_chaos_order_transition.mp4
 
 
