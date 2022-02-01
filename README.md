@@ -4,7 +4,7 @@ In this repository, I describe my most significant PhD result.
 ## Background
 In my Phd, I studied short chains of paramagnetic particles submerged in a fluid and subjected to an external rotating magnetic field. These particle systems have many proven and potential applications in microfluidics, optics and bio industry. I discovered in my simulations that above a critical rotational frequency of the field, the chain of the particles breaks up and particles undergo an episode of chaotic motion which is temporary. The long term response of the particles is forming ordered, rotating and stable structures. 
 
-![](Figures/simulation.png)
+![](Figures/simulation.tif)
 
 Then, we ran experiments and validated the simulation outcome: 
 
