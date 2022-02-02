@@ -6,7 +6,7 @@ In my Phd, I studied short chains of paramagnetic particles submerged in a fluid
 
 ![](Figures/simulation.png)
 
-Then, we ran experiments to validate the simulation outcomes and found final states: 
+Then, we ran experiments to validate the simulation outcomes and found both final states: 
 
 ![](Figures/experiment2.png)
 
