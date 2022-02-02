@@ -10,19 +10,18 @@ Then, we ran experiments to validate the simulation outcomes and found final sta
 
 ![](Figures/experiment2.png)
 
+Watch a video from experiments where the particles form a stable cluster after going through chaotic motion: https://www.youtube.com/watch?v=bA2_DzKMJ_A  
+
 ## Population Dynamics
 In order to systematically capture the transition time from chaos to order I used a technique called tangent dynamics analysis. The following is the output of tangent dynamics at Mn = 1.253 (where Mn is the non-dimensional frequency of the external filed). A positive slope means chaos and a zero slope means order. The sharp change in slope is representative of the sharp transition from chaos to order. 
 
 ![](Figures/fig4b.png)
 
-I ran this analysis for 500 different initial conditions at Mn = 1.253 and recorded the transition times. It turns out that the transition out of the chaotic state follows a first order Poisson's process. The survaival probability in chaotic state, $$P_s$$
+I ran this analysis for 500 different initial conditions at Mn = 1.253 and recorded the transition times. It turns out that the transition out of the chaotic state follows a first order Poisson's process. The survaival probability in chaotic state decays exponentially in time. The possibility of observing a cluster or a molecule as the final state is a constant in asymptotic time. 
 
 ![](Figures/poisson.png)
 
-I have also attached a movie from real experiments that capture this sharp transition from chaos to order: experiment_chaos_order_transition.mp4
-
 ## Code
-Please find the MATLAB code for the tangent dynamics analysis in the code folder. 
-If you run the MATLAB code you will get the following figure which is the equivalent of figure 4b for a slighly different initial condition. 
+I have attached the MATLAB code that performs tangent dynamics analysis. 
 
 
