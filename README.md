@@ -15,7 +15,7 @@ In order to systematically capture the transition time from chaos to order I use
 
 ![](Figures/fig4b.png)
 
-I ran this analysis for 500 different initial conditions at Mn = 1.253 and recorded the transition times. It turns out that the transition out of the chaotic state follows a first order Poisson's process. The survaival probability in chaotic state, $P_s$
+I ran this analysis for 500 different initial conditions at Mn = 1.253 and recorded the transition times. It turns out that the transition out of the chaotic state follows a first order Poisson's process. The survaival probability in chaotic state, $$P_s$$
 
 ![](Figures/poisson.png)
 
