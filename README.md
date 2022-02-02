@@ -8,7 +8,7 @@ In my Phd, I studied short chains of paramagnetic particles submerged in a fluid
 
 Then, we ran experiments and validated the simulation outcome: 
 
-![](Figures/experiment.png)
+![](Figures/experiment2.png)
 
 ## Tangent Dynamics Analyis 
 In order to systematically capture the transition time from chaos to order I had to run tangent dynamics analysis. I do not go into the details of the analysis, however, I am sharing the code that re-generates the figure 4b of the paper which is shown below. A positive slope means chaos and a zero slope means order. The sharp change in slope is representative of the sharp transition from chaos to order. 
