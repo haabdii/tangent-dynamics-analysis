@@ -11,11 +11,11 @@ Then, we ran experiments to validate the simulation outcomes and found final sta
 ![](Figures/experiment2.png)
 
 ## Population Dynamics
-In order to systematically capture the transition time from chaos to order I used a technique called tangent dynamics analysis: a positive slope means chaos and a zero slope means order. The sharp change in slope is representative of the sharp transition from chaos to order. 
+In order to systematically capture the transition time from chaos to order I used a technique called tangent dynamics analysis. The following is the output of tangent dynamics at Mn = 1.253 (where Mn is the non-dimensional frequency of the external filed). A positive slope means chaos and a zero slope means order. The sharp change in slope is representative of the sharp transition from chaos to order. 
 
 ![](Figures/fig4b.png)
 
-I ran this analysis for millions of different initial conditions and recorded the transition time. It turns out that the transition out of the chaotic state follows a first order Poisson's process. 
+I ran this analysis for 500 different initial conditions at Mn = 1.253 and recorded the transition times. It turns out that the transition out of the chaotic state follows a first order Poisson's process. The survaival probability in chaotic state, $P_s$
 
 ![](Figures/poisson.png)
 
